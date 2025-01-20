@@ -10,6 +10,6 @@ public class PercentageController {
 
     @GetMapping("/percentage")
     public Double getPercentage() {
-        return 100.0;
+        return 10.0;
     }
 }
